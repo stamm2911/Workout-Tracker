@@ -9,10 +9,10 @@ const app = express();
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-app.use(express.static("public"));
+app.use(express.static("public"))
 
 mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://localhost/workout",
+  process.env.MONGODB_URI || "mongodb+srv://stamm-admin:wrNn2jjDCX23qoxz@cluster0.luteo.mongodb.net/workout?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
