@@ -23,10 +23,10 @@ The user is able to:
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
-![Deployed application](Develop/img/deployed-app.PNG)
+![Deployed application](img/deployed-app.PNG)
 
 ## Deployed App
-[https://github.com/stamm2911](https://github.com/stamm2911)
+[https://desolate-wildwood-80171.herokuapp.com](https://desolate-wildwood-80171.herokuapp.com)
 
 ## License
 © Licensed under the Apache License 2.0
