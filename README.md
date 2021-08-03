@@ -11,7 +11,7 @@
 - [Questions](#questions)
 
 ## Usage
-When the user loads the page, they are given the option to create a new workout or continue with their last workout.
+When the user loads the page, they are given the option to create a new workout or continue with their last workout
 
 The user is able to:
 
